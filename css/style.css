@@ -5,3 +5,17 @@
 	
 	
 	}
+.listeder{
+	display: flex;
+	justify-content: space-between;
+}
+
+.navbottom{
+	 display:flex;
+	 justify-content: space-between;
+}
+
+.horizontal-menu{
+	
+	 display: inline;
+}
